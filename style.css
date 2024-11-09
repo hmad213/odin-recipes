@@ -8,8 +8,35 @@ img{
     width: auto;
 }
 a{
-    font-size: 15px;
+    font-size: 20px;
 }
 ul, ol, p{
     background-color: lightskyblue;
+}
+
+.container{
+    margin: auto;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(255, 237, 240);
+    padding: 8px;
+}
+
+.title{
+    width: 350px;
+    margin: auto;
+}
+
+.home-list{
+    width: 350px;
+    margin: auto;
+}
+
+.home-list ul{
+    padding: 30px;
+}
+
+.home-list li{
+    margin: 10px;
+    font-size: 16px;
 }
